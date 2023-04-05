@@ -2,7 +2,7 @@
   "description": "",
   "displayName": "ReservoirSamplings",
   "keywords": [],
-  "name": "com.little-lion.reservoir-sampling",
+  "name": "com.little-lion.reservoir-samplings",
   "unity": "2021.3",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
